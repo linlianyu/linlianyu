@@ -1,9 +1,8 @@
 # 自己搭建ssr服务器教程
 
----
- 本文借鉴自[《自建ss服务器教程》](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+## 前记
 
----
+&#8195;&#8195;本文借鉴自[《自建ss服务器教程》](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
 1. 购买vps服务器
 

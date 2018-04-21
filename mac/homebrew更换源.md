@@ -1,10 +1,10 @@
 # homebrew更换源
 
- > 本文转载自[《更换Homebrew的更新源》](https://musoucrow.github.io/2017/03/29/brew_changing/)
-
 ## 前言
 
- 由于brew默认的源是存放在github上，所以国内访问很慢，所以我们可以选择更换为国内提供的更新源，来提高我们的访问速度
+
+&#8195;&#8195;由于brew默认的源是存放在github上，所以国内访问很慢，所以我们可以选择更换为国内提供的更新源，来提高我们的访问速度
+&#8195;&#8195;本文转载自[《更换Homebrew的更新源》](https://musoucrow.github.io/2017/03/29/brew_changing/)
 
 ## 替换更新源
 

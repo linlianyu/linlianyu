@@ -1,4 +1,3 @@
-
 # window配置jdk
 
 1. jdk安装完成后，复制jdk的安装路径
