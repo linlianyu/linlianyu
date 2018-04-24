@@ -1,8 +1,12 @@
 # 使用vmware安装凤凰os
 
+---
+
 ## 前记
 
 &#8195;&#8195;本文借鉴自[《VMware 12安装凤凰os》](https://jingyan.baidu.com/article/20095761dce379cb0721b41b.html)
+
+---
 
 1. 下载[PhoenixOS](https://pan.baidu.com/s/15mPo7Sh7fUjQeFBBG4s5VA)
 
