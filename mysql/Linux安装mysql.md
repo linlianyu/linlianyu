@@ -1,4 +1,4 @@
-# 安装mysql
+# Linux安装mysql
 
 1. 打开终端
 

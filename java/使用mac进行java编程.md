@@ -2,7 +2,7 @@
 
 ## 下载并安装jdk
 
-1. 在jdk官网下载macos的jdk安装包（[link](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)）
+1. 在jdk官网下载macos的jdk安装包（[jdk](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)）
 
 > ![](https://ws3.sinaimg.cn/large/006tNc79gy1fqfx2pnkoqj310l0ng102.jpg)
 

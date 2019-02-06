@@ -9,7 +9,7 @@
 2. 输入以下命令,然后回车
 
 ```
-linlianyus-MacBook-Air:~ linlianyu$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 3. 终端会自动下载和安装homebrew
@@ -31,7 +31,7 @@ linlianyus-MacBook-Air:~ linlianyu$ brew
 2. 输入以下命令，然后回车
 
 ```
-linlianyus-MacBook-Air:~ linlianyu$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"
 ```
 
 3. 输入"y"，然后回车
@@ -45,7 +45,7 @@ linlianyus-MacBook-Air:~ linlianyu$ /usr/bin/ruby -e "$(curl -fsSL https://raw.g
 4. 卸载完成，测试
 
 ```
-linlianyus-MacBook-Air:~ linlianyu$ brew
+$ brew
 ```
 
 > ![](https://ws2.sinaimg.cn/large/006tNc79gy1fqk22yqi9mj30fl014t93.jpg)
