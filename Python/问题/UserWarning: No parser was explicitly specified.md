@@ -1,5 +1,13 @@
 # UserWarning: No parser was explicitly specified
 
+---
+
+## 前记
+
+&#8195;&#8195;本文参考[Beautiful Soup 4.4.0 文档](https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/)
+
+---
+
 ## 代码
 
 ```
@@ -31,7 +39,3 @@ The code that caused this warning is on line 7 of the file /Users/linlianyu/gith
 ```
 exampleSoup = bs4.BeautifulSoup(exampleFile, 'html.parser')
 ```
-
-## 参考
-
-[Beautiful Soup 4.4.0 文档](https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/)
